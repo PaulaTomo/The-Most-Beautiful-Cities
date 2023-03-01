@@ -1,0 +1,66 @@
+        [
+          {
+            "id": 11,
+            "srcThumbnail": "media/city.jpeg",
+            "srcImage": "Media/Paris.png",
+            "title": "Paris, France",
+            "shortDesc": "Dream travels.",
+            "desc": "Paris is the capital and largest city of France. It is known for its stunning architecture, iconic landmarks, world-class museums, and rich cultural heritage. The city is home to famous monuments such as the Eiffel Tower, Notre-Dame Cathedral, the Louvre Museum, and the Sainte-Chapelle. Paris is also renowned for its cuisine, fashion, and art scenes. It is a popular tourist destination and attracts millions of visitors each year with its beautiful streets, charming cafes, and vibrant atmosphere. Whether you are looking for history, culture, or simply a taste of the good life, Paris has something for everyone."
+          },
+          {
+            "id": 22,
+            "srcThumbnail":"media/city.jpeg" ,
+            "srcImage": "Media/London.png",
+            "title":"London, England" ,
+            "shortDesc": "Dream travels.",
+            "desc":"London is the capital and largest city of England. It is a major global city with a rich history and cultural heritage. London is renowned for its iconic landmarks such as Buckingham Palace, the Tower of London, Big Ben (now known as the Elizabeth Tower), and the London Eye. It is also famous for its museums and galleries, including the British Museum and the National Gallery. London is a hub for finance, fashion, and the arts, and offers a diverse range of experiences, from historic walks along the Thames River to shopping on Oxford Street, and from visiting world-class theaters to experiencing its famous nightlife. Whether you're interested in history, culture, or just soaking up the unique atmosphere, London has something to offer everyone."
+          },
+          {
+            "id": 33,
+            "srcThumbnail":"media/city.jpeg" ,
+            "srcImage": "Media/Rome.png",
+            "title":"Rome, Italy" ,
+            "shortDesc": "Dream travels.",
+            "desc": "Rome is the capital of Italy and one of the most historic cities in the world. It is known for its ancient ruins, such as the Colosseum and the Roman Forum, which are reminders of the city's rich history as the center of the Roman Empire. Rome is also famous for its religious monuments, including the Vatican City, which is the headquarters of the Roman Catholic Church and home to St. Peter's Basilica and the Sistine Chapel. Additionally, the city boasts beautiful Baroque architecture, elegant piazzas, and world-renowned museums and art galleries, such as the Borghese Gallery and the Capitoline Museums. Whether you are interested in history, art, religion, or simply strolling the picturesque streets, Rome offers a truly unforgettable experience."
+          },
+          {
+            "id": 44,
+            "srcThumbnail":"media/city.jpeg" ,
+            "srcImage": "Media/Dubai.png",
+            "title":"Dubai" ,
+            "shortDesc": "Dream travels.",
+            "desc":"Dubai is a city in the United Arab Emirates, known for its modern architecture, luxury shopping, and vibrant nightlife. It is home to some of the world's tallest and most unique skyscrapers, such as the Burj Khalifa and the Burj Al Arab. Dubai is also famous for its artificial islands, including the Palm Jumeirah and the World Islands, and its indoor ski slopes, such as Ski Dubai. The city is a popular tourist destination, offering a range of activities and attractions, from camel rides in the desert to shopping in one of its many malls, and from exploring its cultural heritage at the Dubai Museum to relaxing on its beaches. Whether you're looking for adventure or luxury, Dubai has something to offer everyone."
+          },
+          {
+            "id": 55,
+            "srcThumbnail":"media/city.jpeg" ,
+            "srcImage": "Media/venice.png",
+            "title":"Venice" ,
+            "shortDesc": "Dream travels.",
+            "desc":"Venice is a city in northeast Italy, built on a group of 118 small islands separated by canals and linked by bridges. It is known for its stunning architecture, its rich history, and its unique system of waterways. Venice is famous for its beautiful palaces and churches, including St. Mark's Basilica and the Doge's Palace, and its world-renowned art collections, such as the Peggy Guggenheim Collection. The city is also famous for its gondolas, which are a traditional means of transportation and a symbol of Venice. Whether you're wandering through the narrow streets, admiring the stunning views from its bridges, or taking a gondola ride through its picturesque canals, Venice offers a truly magical experience that is unlike any other city in the world."
+          },
+          {
+            "id": 66,
+            "srcThumbnail":"media/city.jpeg" ,
+            "srcImage": "media/Istanbul.png",
+            "title":"Istanbul, Turkey" ,
+            "shortDesc": "Dream travels.",
+            "desc":"Istanbul is a city in Turkey that straddles Europe and Asia. It is one of the world's oldest cities, with a rich history and cultural heritage. Istanbul is known for its stunning architecture, including the Hagia Sophia and the Topkapi Palace, and its impressive mosques, such as the Sultan Ahmed Mosque (Blue Mosque). The city is also famous for its vibrant markets, such as the Grand Bazaar, and its delicious cuisine, which combines traditional Turkish flavors with Middle Eastern and Mediterranean influences. Whether you're exploring the city's rich history at the Museum of Turkish and Islamic Arts or relaxing in one of its many parks, Istanbul offers a truly unique and memorable experience."
+          },
+          {
+            "id": 77,
+            "srcThumbnail":"media/city.jpeg" ,
+            "srcImage": "media/Barcelona.png",
+            "title":"Barcelona Spain" ,
+            "shortDesc": "Dream travels.",
+            "desc":"Barcelona is a city in Spain, located on the northeastern coast of the country. It is known for its rich culture, stunning architecture, and lively atmosphere. Barcelona is famous for its stunning works of architecture, including the Sagrada Familia, a masterpiece of the city's most famous architect Antoni Gaudi, and the Park Guell, a whimsical park filled with mosaics and sculptures. The city is also renowned for its museums and art collections, including the Picasso Museum and the Joan Miro Foundation. Whether you're exploring the Gothic Quarter, admiring the views from the city's many parks, or trying the local cuisine, Barcelona offers a truly unforgettable experience."
+          },
+          {
+          "id": 88,
+          "srcThumbnail":"media/city.jpeg" ,
+          "srcImage": "Media/Amsterdam.png",
+          "title":"Amsterdam" ,
+          "shortDesc": "Dream travels.",
+          "desc":"Amsterdam is the capital and largest city of the Netherlands. It is known for its beautiful canals, historic architecture, and liberal culture. Amsterdam is famous for its picturesque canals, which have earned it the nickname \"Venice of the North.\" The city is also renowned for its museums, such as the Rijksmuseum and the Van Gogh Museum, and its beautiful parks, including the Vondelpark. Amsterdam is also known for its tolerance, reflected in its famous coffee shops and red-light district. Whether you're exploring the city's rich cultural heritage, admiring its beautiful buildings, or simply soaking up its relaxed atmosphere, Amsterdam offers a truly unique and unforgettable experience."
+          }
+        ]

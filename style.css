@@ -1,0 +1,32 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: wheat;
+    color: green;
+
+}
+
+h1{
+    font-size: 30px;
+}
+img{
+    box-shadow: rgba(0, 0, 0, 0.62) 0 5px 15px;
+}
+.text{
+    padding-top: 30px;
+    color: black;
+    font-size: 20px;
+}
+@media screen and (max-width: 480px) {
+    .text{
+        font-size: 18px;
+    }
+
+}
+@media screen and (max-width: 510px) {
+    .col-xs-6 {
+        width: auto;
+    }
+}
